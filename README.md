@@ -1,6 +1,6 @@
 # konyiel
 
-* This is a skype bot that will return a random message (lets call it an answer), when it receives a message with recognized rules.
+This is a skype bot that will return a random message (lets call it an answer), when it receives a message with recognized rules.
 * The answer is selected based from 3 main categories: <b>yes</b>, <b>no</b> and <b>maybe</b>.
 * Each of the category has an array of words that shares the same intent.
 * For example, <b>yes</b> category array may contain 'iya', 'yup', 'yes', etc.
